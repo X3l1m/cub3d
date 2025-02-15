@@ -34,7 +34,8 @@ Follow these steps to set up the project:
    - Install the `MLX42` library and other necessary dependencies.
 
    ```bash
-   sudo apt-get install libx11-dev libgl1-mesa-dev libmlx42-dev
+   sudo apt update
+   sudo apt install build-essential libx11-dev libglfw3-dev libglfw3 xorg-dev
    ```
 
 3. **Build the Project**:
