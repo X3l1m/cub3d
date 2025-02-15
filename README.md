@@ -1,7 +1,3 @@
-Here's an example of a **Cub3D** project README in English:
-
----
-
 # Cub3D
 
 Cub3D is a 3D maze game simulator. This project demonstrates the use of basic game development and graphics programming concepts by rendering a 3D map. The player navigates and interacts with the environment in a 3D world. It is developed using the C programming language and the **MLX42** graphics library.
@@ -19,7 +15,6 @@ Follow the instructions below to set up and run the project on your local machin
 ### Requirements
 
 - **C Compiler** (gcc or clang)
-- **MLX42** library
 - **CMake** (for configuration and building)
 - **Make** (build tool)
 
@@ -30,7 +25,7 @@ Follow these steps to set up the project:
 1. **Clone the Repository**:
 
    ```bash
-   git clone https://github.com/username/cub3d.git
+   git clone --recursive https://github.com/username/cub3d.git
    cd cub3d
    ```
 
@@ -59,19 +54,5 @@ Follow these steps to set up the project:
 ### Controls
 
 - **W, A, S, D**: Move
-- **Mouse**: Look around
+- **Left Right Arrow**: Look around
 - **Esc**: Exit the game
-
-## Authors
-
-This project was developed by:
-
-- **Selim Yıldırım** - Developer
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
-
----
-
-This README includes the basic setup instructions, usage details, and a brief description of the project. Feel free to expand it based on your needs.
