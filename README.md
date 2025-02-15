@@ -25,7 +25,7 @@ Follow these steps to set up the project:
 1. **Clone the Repository**:
 
    ```bash
-   git clone --recursive https://github.com/username/cub3d.git
+   git clone --recursive https://github.com/X3l1m/cub3d.git
    cd cub3d
    ```
 
