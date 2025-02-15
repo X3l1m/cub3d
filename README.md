@@ -47,7 +47,7 @@ Follow these steps to set up the project:
 4. **Run the Project**:
 
    ```bash
-   ./cub3d map.cub
+   ./cub3d maps/map.cub
    ```
 
    The `map.cub` is the map file used in the game. You can test the game with different map files.
